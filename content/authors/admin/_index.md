@@ -68,7 +68,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'mail@yli.one'
@@ -77,5 +77,5 @@ email: 'mail@yli.one'
 highlight_name: true
 ---
 
-Yuanyue Li's bio.
+I am an Assistant Project Scientist at the West Coast Metabolomics Center, UC Davis. I has developed methods like Group-DIA, Entropy Similarity and Flash Entropy Search for analyzing mass spectrometry data. Currently, I am focused on developing computational methods for improving metabolites identification with mass spectrometry.
 {style="text-align: justify;"}
