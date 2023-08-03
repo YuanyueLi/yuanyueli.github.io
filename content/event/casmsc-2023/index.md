@@ -3,6 +3,7 @@
 
 title: "Fast and Accurate Analysis of MS/MS Spectra using Spectral Entropy"
 event: "Chinese American Society for Mass Spectrometry Conference 2023"
+summary: "Chinese American Society for Mass Spectrometry Conference 2023"
 event_url:
 location:
 address:
@@ -11,7 +12,6 @@ address:
   region:
   postcode:
   country:
-summary:
 abstract:
 
 # Talk start and end times.
