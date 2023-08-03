@@ -20,6 +20,6 @@ publication: '*Submitting to Nature Methods*'
 doi: 10.21203/rs.3.rs-2693233/v1
 links:
 - name: URL
-  url: https://www.researchsquare.com
+  url: https://www.researchsquare.com/article/rs-2693233/v1
 ---
 

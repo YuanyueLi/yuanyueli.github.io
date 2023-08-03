@@ -77,5 +77,8 @@ email: 'mail@yli.one'
 highlight_name: true
 ---
 
-I am an Assistant Project Scientist at the West Coast Metabolomics Center, UC Davis. I has developed methods like Group-DIA, Entropy Similarity and Flash Entropy Search for analyzing mass spectrometry data. Currently, I am focused on developing computational methods for improving metabolites identification with mass spectrometry.
+I am an Assistant Project Scientist at the West Coast Metabolomics Center, UC Davis. I have developed methods like Group-DIA, Entropy Similarity and Flash Entropy Search for analyzing mass spectrometry data. Currently, I am focused on developing computational methods for improving metabolites identification with mass spectrometry.
+{style="text-align: justify;"}
+
+You can find the work I developed in my [GitHub](https://github.com/YuanyueLi)
 {style="text-align: justify;"}
