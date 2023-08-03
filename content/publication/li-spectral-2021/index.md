@@ -27,7 +27,7 @@ abstract: Compound identification in small-molecule research, such as untargeted
   to confirm that entropy similarity largely improved the accuracy of MS-based annotations
   in small-molecule research to false discovery rates below 10%, annotated new compounds
   and provided the basis to automatically flag poor-quality, noisy spectra.
-featured: false
+featured: true
 publication: '*Nature Methods*'
 tags:
 - Metabolomics

@@ -27,7 +27,7 @@ abstract: Proteinâ€“metabolite interactions play an important role in the cellâ€
   thermophilum, we predict 461 likely protein-metabolite interactions, most of them
   novel. As a proof of principle, we experimentally validate a predicted interaction
   between the ribosome and isopentenyl adenine.
-featured: false
+featured: true
 publication: '*PLOS ONE*'
 doi: 10.1371/journal.pone.0254429
 links:

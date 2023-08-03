@@ -18,7 +18,7 @@ authors:
 publication_types:
 - '2'
 abstract: ''
-featured: false
+featured: true
 publication: '*Nature Methods*'
 doi: 10.1038/nmeth.3593
 links:

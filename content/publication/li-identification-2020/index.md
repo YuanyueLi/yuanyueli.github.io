@@ -28,7 +28,7 @@ abstract: "MOTIVATION: Untargeted mass spectrometry (MS/MS) is a powerful method
   \ data become available. AVAILABILITY AND IMPLEMENTATION: SF-Matching is available\
   \ from http://www.bork.embl.de/Docu/sf_matching. SUPPLEMENTARY INFORMATION: Supplementary\
   \ data are available at Bioinformatics online."
-featured: false
+featured: true
 publication: '*Bioinformatics*'
 tags:
 - Databases
