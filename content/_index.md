@@ -115,7 +115,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Featured Projects
       filters:
         folders:
           - project
@@ -136,7 +136,7 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
-      view: showcase
+      view: newshowcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   # # - block: markdown
@@ -235,5 +235,8 @@ sections:
       #     captcha: false
     design:
       columns: '2'
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ["20px", "0", "20px", "0"]
 ---
 

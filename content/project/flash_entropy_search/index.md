@@ -1,12 +1,12 @@
 ---
 title: Flash Entropy Search
-summary: Flash Entropy Search is a fast algorithm to compare billions MS/MS spectra in seconds.
+summary: Flash Entropy Search is a superfast algorithm which can compare billions MS/MS spectra in seconds, magnifying the speed of library searching by five orders of magnitude.
 tags:
   - Spectral entropy
 date: '2023-03-14T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://doi.org/10.21203/rs.3.rs-2693233/v1'
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
@@ -17,13 +17,9 @@ links:
     icon_pack: fab
     name: Code
     url: https://github.com/YuanyueLi/FlashEntropySearch
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
   - icon: file-pdf
     icon_pack: fas
-    name: Paper
+    name: pdf
     url: https://www.researchsquare.com/article/rs-2693233/latest.pdf
 url_code: ''
 url_pdf: ''
