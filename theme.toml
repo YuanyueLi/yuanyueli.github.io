@@ -40,10 +40,10 @@ features = ["page builder", "widgets", "themes", "search", "research publication
 
 [author]
   name = "Yuanyue Li"
-  homepage = "http://yuanyue.li"
+  homepage = "https://yuanyue.li"
 
 # If porting an existing theme
 [original]
   name = "Yuanyue Li"
-  homepage = "http://yuanyue.li"
+  homepage = "https://yuanyue.li"
   repo = ""

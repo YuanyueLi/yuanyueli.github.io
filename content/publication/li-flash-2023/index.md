@@ -16,7 +16,7 @@ abstract: Public repositories of metabolomics mass spectra encompass more than 1
   This algorithm can fully exploit large spectral libraries with little memory overhead
   for any mass spectrometry laboratory.
 featured: true
-publication: '*Accepted by Nature Methods*'
+publication: '*Submitting to Nature Methods*'
 doi: 10.21203/rs.3.rs-2693233/v1
 links:
 - name: URL
