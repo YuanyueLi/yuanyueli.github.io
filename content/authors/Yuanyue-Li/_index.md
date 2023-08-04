@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Yuanyue Li
+title_chinese: 李渊越
 
 # Full name (for SEO)
 first_name: Yuanyue
@@ -22,7 +23,7 @@ organizations:
     # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include identify molecules using mass spectrometry.
+bio: I develop methods for analyzing mass spectrometry data.
 
 # Interests to show in About widget
 interests:
@@ -77,8 +78,8 @@ email: 'mail@yli.one'
 highlight_name: true
 ---
 
-I am an Assistant Project Scientist at the West Coast Metabolomics Center, UC Davis. I have developed methods like Group-DIA, Entropy Similarity and Flash Entropy Search for analyzing mass spectrometry data. Currently, I am focused on developing computational methods for improving metabolites identification with mass spectrometry.
+I am currently working at the West Coast Metabolomics Center, UC Davis. I have developed various methods for analyzing mass spectrometry data, including Group-DIA, Entropy Similarity, and Flash Entropy Search. At present, I am focused on developing computational methods to enhance metabolite identification through mass spectrometry.
 {style="text-align: justify;"}
 
-You can find the work I developed in my [GitHub](https://github.com/YuanyueLi)
+Feel free to visit my [GitHub](https://github.com/YuanyueLi) page to see my projects.
 {style="text-align: justify;"}
