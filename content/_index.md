@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: 👋 Hi
+      title: 👋 Hello
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: Yuanyue-Li
   # - block: experience
@@ -135,7 +135,7 @@ sections:
       #     tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: '1'
       view: newshowcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false

@@ -1,6 +1,6 @@
 ---
 title: Group-DIA
-summary: Group-DIA can analyze can analyze multiple DIA data files simultaneously and enhances protein identification notably by grouping multiple mass spectrometry datasets. 
+summary: '**Group-DIA** can analyze multiple DIA data files simultaneously, notably enhancing protein identification by grouping various mass spectrometry datasets.'
 date: "2015-10-05T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
