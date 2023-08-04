@@ -79,7 +79,7 @@ highlight_name: true
 ---
 
 I am currently working at the West Coast Metabolomics Center, UC Davis. I have developed various methods for analyzing mass spectrometry data, including Group-DIA, Entropy Similarity, and Flash Entropy Search. At present, I am focused on developing computational methods to enhance metabolite identification through mass spectrometry.
-{style="text-align: justify;"}
+<!-- {style="text-align: justify;"} -->
 
 Feel free to visit my [GitHub](https://github.com/YuanyueLi) page to see my projects.
-{style="text-align: justify;"}
+<!-- {style="text-align: justify;"} -->
