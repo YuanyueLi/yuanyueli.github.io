@@ -15,7 +15,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Bioinformatic Scientist
+role: Bioinformatics Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -23,13 +23,13 @@ organizations:
     # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I develop methods for analyzing mass spectrometry data.
+bio: I develop methods for identify molecules.
 
 # Interests to show in About widget
 interests:
   - Mass Spectrometry
-  - Machine Learning
   - Molecular Biology
+  - Machine Learning
 
 # Education to show in About widget
 education:
