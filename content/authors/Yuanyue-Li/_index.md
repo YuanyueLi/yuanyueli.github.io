@@ -78,7 +78,9 @@ email: 'mail@yli.one'
 highlight_name: true
 ---
 
-My name is Yuanyue Li, a Bioinformatics Scientist with a passion for understanding the molecular mechanisms of life combining experimental and computational methods. Currently, My research mainly focused on developing computational methods for analyzing mass spectrometry data to enhance metabolite identification. Feel free to visit my [GitHub](https://github.com/YuanyueLi) page to try out the tools I've developed.
+My name is Yuanyue Li, a bioinformatics scientist with a passion for understanding the molecular mechanisms of life combining experimental and computational methods. I hope my research can help to answer those questions: 1) How many different molecules are there in a cell? 2) How do they interact with each other? 3) How do they work together to make a cell alive?
 
-I grew up and received my doctoral degree in China, then enjoyed three years of postdoctoral training in Germany, and I am currently working in the United States. During my spare time, I enjoy traveling with my wife and our two daughters.
+Mass spectrometry is a powerful tool for measuring molecules with high sensitivity and accuracy. Therefore, I use mass spectrometry as my primary tool to measure molecules. I have developed serval methods to maximize the capabilities of mass spectrometry in life science research. Feel free to visit my [GitHub](https://github.com/YuanyueLi) page to try out the tools I've developed.
+
+I grew up and received my doctoral degree in China, then enjoyed three years of postdoctoral training in Germany, and I am currently working in the United States. Throughout my life, I enjoy exploring the world with my wife and our two daughters.
 <!-- {style="text-align: justify;"} -->
