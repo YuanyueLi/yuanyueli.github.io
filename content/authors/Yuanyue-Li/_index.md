@@ -15,7 +15,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist
+role: Bioinformatic Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -78,8 +78,7 @@ email: 'mail@yli.one'
 highlight_name: true
 ---
 
-I am currently working at the West Coast Metabolomics Center, UC Davis. I have developed various methods for analyzing mass spectrometry data, including Group-DIA, Entropy Similarity, and Flash Entropy Search. At present, I am focused on developing computational methods to enhance metabolite identification through mass spectrometry.
-<!-- {style="text-align: justify;"} -->
+My name is Yuanyue Li, a Bioinformatics Scientist with a passion for understanding the molecular mechanisms of life combining experimental and computational methods. Currently, My research mainly focused on developing computational methods for analyzing mass spectrometry data to enhance metabolite identification. Feel free to visit my [GitHub](https://github.com/YuanyueLi) page to try out the tools I've developed.
 
-Feel free to visit my [GitHub](https://github.com/YuanyueLi) page to see my projects.
+I grew up and received my doctoral degree in China, then enjoyed three years of postdoctoral training in Germany, and I am currently working in the United States. During my spare time, I enjoy traveling with my wife and our two daughters.
 <!-- {style="text-align: justify;"} -->
