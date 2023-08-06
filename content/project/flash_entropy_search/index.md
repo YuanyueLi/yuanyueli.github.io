@@ -1,6 +1,6 @@
 ---
 title: Flash Entropy Search
-summary: '**Flash Entropy Search** is an ultra-fast algorithm capable of comparing billions of MS/MS spectra in seconds, boosting the speed of library searches by five orders of magnitude. This method is similar to the BLAST algorithm used for sequence searches, enabling rapid comparison of MS/MS spectra against large spectral libraries.'
+summary: '**Flash Entropy Search** is an ultra-fast algorithm capable of comparing billions of MS/MS spectra in seconds, boosting the speed of library searches by five orders of magnitude. This method enabled rapid comparison of MS/MS spectra against large spectral libraries, just like BLAST for sequence searches.'
 tags:
   - Spectral entropy
 date: '2023-03-14T00:00:00Z'
