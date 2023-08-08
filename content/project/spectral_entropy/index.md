@@ -1,6 +1,6 @@
 ---
 title: Spectral Entropy & Entropy Similarity
-summary: By treating an MS/MS spectrum as a probability distribution, we introduced the concept of **Spectral Entropy** to evaluate the information within the spectrum. Expanding on this idea, we proposed **Entropy Similarity** as a metric to measure the similarity between two spectra. Utilizing this approach can lead to a reduction in the false positive rate for metabolite identification by up to 40%.
+summary: By considering an MS/MS spectrum as a probability distribution, we introduced the concept of **Spectral Entropy** to evaluate the information within the spectrum. Expanding on this idea, we proposed **Entropy Similarity** as a metric to measure the similarity between two spectra. Utilizing this approach can lead to a reduction in the false positive rate for metabolite identification by up to 40%.
 date: "2021-02-12T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
