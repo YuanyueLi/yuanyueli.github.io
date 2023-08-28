@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Yuanyue Li's Pearsonal Website
+title: Yuanyue Li's Personal Website
 date: 2022-10-24
 type: landing
 
