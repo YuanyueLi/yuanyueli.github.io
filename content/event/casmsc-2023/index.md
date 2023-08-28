@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides:
+url_slides: "CASMS-2023.08-YuanyueLi.pptx"
 
 url_code:
 url_pdf:
