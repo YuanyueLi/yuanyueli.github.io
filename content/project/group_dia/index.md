@@ -18,6 +18,6 @@ links:
     url: https://github.com/YuanyueLi/group-dia
   - icon: file-pdf
     icon_pack: fas
-    name: pdf
-    url: https://www.nature.com/articles/nmeth.3593.pdf
+    name: PDF
+    url: Yuanyue-GroupDIA.pdf
 ---

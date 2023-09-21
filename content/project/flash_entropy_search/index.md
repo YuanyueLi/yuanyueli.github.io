@@ -6,7 +6,7 @@ tags:
 date: '2023-03-14T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://doi.org/10.21203/rs.3.rs-2693233/v1'
+external_link: 'https://www.nature.com/articles/s41592-021-01331-z'
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
@@ -19,10 +19,14 @@ links:
     url: https://github.com/YuanyueLi/FlashEntropySearch
   - icon: file-pdf
     icon_pack: fas
-    name: pdf
-    url: https://www.researchsquare.com/article/rs-2693233/latest.pdf
+    name: PDF
+    url: Yuanyue-flash_entropy_search.pdf
+  - icon: book-open
+    icon_pack: fas
+    name: Readcube
+    url: https://rdcu.be/dmIfr
+
 url_code: ''
-url_pdf: ''
 url_slides: ''
 url_video: ''
 

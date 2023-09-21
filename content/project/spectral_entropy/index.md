@@ -18,6 +18,6 @@ links:
     url: https://github.com/YuanyueLi/SpectralEntropy
   - icon: file-pdf
     icon_pack: fas
-    name: pdf
-    url: https://www.nature.com/articles/s41592-021-01331-z.pdf
+    name: PDF
+    url: Yuanyue-spectral_entropy.pdf
 ---
