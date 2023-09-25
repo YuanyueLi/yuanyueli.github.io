@@ -23,7 +23,7 @@ organizations:
     # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I develop methods for identify molecules.
+bio: I develop methods for identifying molecules.
 
 # Interests to show in About widget
 interests:
