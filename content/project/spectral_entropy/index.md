@@ -20,4 +20,8 @@ links:
     icon_pack: fas
     name: PDF
     url: Yuanyue-spectral_entropy.pdf
+  - icon: book-open
+    icon_pack: fas
+    name: Readcube
+    url: https://www.nature.com/articles/s41592-021-01331-z.epdf?sharing_token=MkLnb_sSuFHJYPCGrZZVi9RgN0jAjWel9jnR3ZoTv0P202SrTgG-3hC-Uiv27rI5rT_PoOqyC1xYpq2-R2ouPIhxXKpIodpezvTs70Y3Bbk5kqCySTAVUnm6ueeg7KMXSWqfO0c8lSztyC6K9iuaNFjCUathzGTDadGrwMc9sE0%3D
 ---
