@@ -48,7 +48,7 @@ image:
 # Optional filename of your slides within your event's folder or a URL.
 # url_slides: "CASMS-2023.08-YuanyueLi.pptx"
 url_code:
-url_pdf:
+url_pdf: "2023_10-Asilomar-Poster-Yuanyue.pdf"
 url_video:
 
 # Markdown Slides (optional).
@@ -56,7 +56,7 @@ url_video:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: "2023_10-Asilomar-Poster-Yuanyue.pptx"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
