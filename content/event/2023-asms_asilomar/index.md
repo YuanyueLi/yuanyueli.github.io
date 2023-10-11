@@ -48,8 +48,9 @@ image:
 # Optional filename of your slides within your event's folder or a URL.
 # url_slides: "CASMS-2023.08-YuanyueLi.pptx"
 url_code:
-url_pdf: "2023_10-Asilomar-Poster-Yuanyue.pdf"
+url_pdf: 
 url_video:
+url_poster: "2023_10-Asilomar-Poster-Yuanyue.pdf"
 url_slides: "2023_10-Asilomar-Poster-Yuanyue.pptx"
 
 # Markdown Slides (optional).
