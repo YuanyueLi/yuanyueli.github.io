@@ -50,13 +50,14 @@ image:
 url_code:
 url_pdf: "2023_10-Asilomar-Poster-Yuanyue.pdf"
 url_video:
+url_slides: "2023_10-Asilomar-Poster-Yuanyue.pptx"
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: "2023_10-Asilomar-Poster-Yuanyue.pptx"
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
