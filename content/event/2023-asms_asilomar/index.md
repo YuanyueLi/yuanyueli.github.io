@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Flash entropy search to query all mass spectral libraries in real time"
+title: "Flash entropy search to query all mass spectral libraries in real time."
 event: "38th Asilomar Conference on Mass Spectrometry - Computational Mass Spectrometry"
 summary: "38th Asilomar Conference on Mass Spectrometry - Computational Mass Spectrometry"
 event_url:

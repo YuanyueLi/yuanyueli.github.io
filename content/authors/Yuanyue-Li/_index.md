@@ -28,8 +28,9 @@ bio: I develop methods for identifying molecules.
 # Interests to show in About widget
 interests:
   - Mass Spectrometry
+  - Metabolomics
+  - Proteomics
   - Molecular Biology
-  - Machine Learning
 
 # Education to show in About widget
 education:
