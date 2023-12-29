@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/msviewer/static/css/main.e6c13ad2.css",
-    "main.js": "/msviewer/static/js/main.94f84d8e.js",
+    "main.js": "/msviewer/static/js/main.17778ae8.js",
     "index.html": "/msviewer/index.html",
     "main.e6c13ad2.css.map": "/msviewer/static/css/main.e6c13ad2.css.map",
-    "main.94f84d8e.js.map": "/msviewer/static/js/main.94f84d8e.js.map"
+    "main.17778ae8.js.map": "/msviewer/static/js/main.17778ae8.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.94f84d8e.js"
+    "static/js/main.17778ae8.js"
   ]
 }
