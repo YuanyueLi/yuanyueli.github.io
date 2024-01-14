@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Who is lucky?</title>
+    <style>
+        /* Centering the button container */
+        .centered-container {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+        }
+
+        /* Default button style */
+        button {
+            appearance: button;
+            background-color: #1899D6;
+            border: solid transparent;
+            border-radius: 16px;
+            border-width: 0 0 4px;
+            box-sizing: border-box;
+            color: #FFFFFF;
+            cursor: pointer;
+            display: inline-block;
+            font-family: din-round, sans-serif;
+            font-size: 30px;
+            font-weight: 700;
+            letter-spacing: .8px;
+            line-height: 50px;
+            margin: 0;
+            outline: none;
+            overflow: visible;
+            padding: 13px 16px;
+            text-align: center;
+            text-transform: uppercase;
+            touch-action: manipulation;
+            transform: translateZ(0);
+            transition: filter .2s;
+            user-select: none;
+            -webkit-user-select: none;
+            vertical-align: middle;
+            white-space: nowrap;
+            width: 100%;
+        }
+
+        button:after {
+            background-clip: padding-box;
+            background-color: #1CB0F6;
+            border: solid transparent;
+            border-radius: 16px;
+            border-width: 0 0 4px;
+            bottom: -4px;
+            content: "";
+            left: 0;
+            position: absolute;
+            right: 0;
+            top: 0;
+            z-index: -1;
+        }
+
+        button:main,
+        button:focus {
+            user-select: auto;
+        }
+
+        button:active {
+            border-width: 4px 0 0;
+            background: none;
+        }
+
+        p {
+            border: solid transparent;
+            border-radius: 16px;
+            border-width: 0 0 4px;
+            box-sizing: border-box;
+            color: #FF4742;
+            cursor: pointer;
+            display: inline-block;
+            font-family: din-round, sans-serif;
+            font-size: 60px;
+            font-weight: 700;
+            letter-spacing: .8px;
+            line-height: 20px;
+            margin: 0 0 50px 0;
+            outline: none;
+            overflow: visible;
+            padding: 13px 16px;
+            text-align: center;
+            text-transform: uppercase;
+            touch-action: manipulation;
+            transform: translateZ(0);
+            transition: filter .2s;
+            user-select: none;
+            -webkit-user-select: none;
+            vertical-align: middle;
+            white-space: nowrap;
+            width: 100%;
+        }
+
+        /* Fade-in animation */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
+
+        .fade-in-text {
+            animation: fadeIn 1s;
+        }
+
+        /* Zoom-in animation */
+        @keyframes zoomIn {
+            from {
+                transform: scale(0);
+            }
+
+            to {
+                transform: scale(1);
+            }
+        }
+
+        .zoom-in-text {
+            animation: zoomIn 3s;
+            display: inline-block;
+            /* To enable transform scaling */
+        }
+    </style>
+    <script>
+        function displayRandomText() {
+            var texts = ['Lydia', 'Emily'];
+            var randomText = texts[Math.floor(Math.random() * texts.length)];
+            document.getElementById('displayText').innerHTML = randomText;
+            var displayElement = document.getElementById('displayText');
+            displayElement.className = 'zoom-in-text'; // Apply the fade-in class
+
+            // Hide the first button and show the second button
+            document.getElementById('randomButton').style.display = 'none';
+            document.getElementById('refreshButton').style.display = 'inline';
+        }
+
+        function refreshPage() {
+            window.location.reload();
+        }
+    </script>
+</head>
+
+<body>
+    <div class="centered-container">
+        <p id="displayText"></p>
+        <button id="randomButton" onclick="displayRandomText()">Who is lucky?</button>
+        <button id="refreshButton" onclick="refreshPage()" style="display: none;">Try again</button>
+    </div>
+</body>
+
+</html>
