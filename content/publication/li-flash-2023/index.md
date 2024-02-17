@@ -25,5 +25,9 @@ links:
     icon_pack: fas
     name: Read
     url: https://rdcu.be/dmIfr
+  - icon: video
+    icon_pack: fas
+    name: Video
+    url: https://youtu.be/7ev7alMSsp8?si=IzsdCApEYtgU7Nc2&t=1143
 ---
 

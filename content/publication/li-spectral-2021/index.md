@@ -41,5 +41,9 @@ links:
     icon_pack: fas
     name: Read
     url: https://rdcu.be/cCIyX
+  - icon: video
+    icon_pack: fas
+    name: Video
+    url: https://jrnlclub.org/research-films/spectral-entropy-ms
 ---
 
