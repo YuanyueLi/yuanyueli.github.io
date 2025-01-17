@@ -201,15 +201,15 @@ sections:
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: mail@yli.one
-      phone: +1 (530) 564-6361
+      # phone: ''
       # appointment_url: 'https://calendly.com'
-      address:
-        street: 451 East Health Science Drive
-        city: Davis
-        region: CA
-        postcode: '95616'
-        country: United States
-        country_code: US
+      # address:
+      #   street: 866 Yuhangtang Rd
+      #   city: Hangzhou
+      #   region: Zhejiang
+      #   postcode: '310058'
+      #   country: P.R. China
+      #   country_code: CN
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #   - 'Monday 10:00 to 13:00'

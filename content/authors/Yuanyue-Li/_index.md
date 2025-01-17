@@ -83,5 +83,7 @@ I am Yuanyue Li, a bioinformatics scientist with a passion for understanding the
 
 Mass spectrometry is a powerful tool for measuring molecules with high sensitivity and accuracy. Therefore, I use mass spectrometry as my primary tool to measure molecules. I have developed serval methods to maximize the capabilities of mass spectrometry in life science research. Feel free to visit my [GitHub](https://github.com/YuanyueLi) page to try out the tools I've developed.
 
-I grew up and received my doctoral degree in China, then enjoyed three years of postdoctoral training in Germany, and I am currently working in the United States. In my spare time, I enjoy exploring the world with my wife and our two daughters.
+I grew up and received my doctoral degree in China, then enjoyed several years working in Germany and United States. Currently, I am working at Zhejiang University in China as an independent PI. In my spare time, I enjoy exploring the world with my wife and our two daughters.
+
+I am actively seeking talented research assistants, graduate students, and postdoctoral researchers to join my lab. If you are interested in my research, please do not hesitate to reach out—I look forward to hearing from you!
 <!-- {style="text-align: justify;"} -->
