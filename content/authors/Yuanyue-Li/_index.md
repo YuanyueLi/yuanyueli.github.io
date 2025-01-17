@@ -85,5 +85,5 @@ Mass spectrometry is a powerful tool for measuring molecules with high sensitivi
 
 I grew up and received my doctoral degree in China, then enjoyed several years working in Germany and United States. Currently, I am working at Zhejiang University in China as an independent PI. In my spare time, I enjoy exploring the world with my wife and our two daughters.
 
-I am actively seeking talented research assistants, graduate students, and postdoctoral researchers to join my lab. If you are interested in my research, please do not hesitate to reach out—I look forward to hearing from you!
+I am actively seeking talented research assistants, graduate students, and postdoctoral researchers to join my lab. If you are interested in my research, please do not hesitate to send my an Email, I look forward to hearing from you!
 <!-- {style="text-align: justify;"} -->
