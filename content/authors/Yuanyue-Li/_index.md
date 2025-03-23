@@ -19,8 +19,8 @@ role: Bioinformatics Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Zhejian University
-    url: https://person.zju.edu.cn/yuanyueli
+  - name: Zhejiang University
+    url: https://www.zju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I develop methods for metabolomics.
