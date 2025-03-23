@@ -15,7 +15,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Bioinformatics Scientist
+role: ZJU 100 Young Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
