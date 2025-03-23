@@ -19,17 +19,17 @@ role: Bioinformatics Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of California, Davis
-    # url: https://www.stanford.edu/
+  - name: Zhejian University
+    url: https://person.zju.edu.cn/yuanyueli
 
 # Short bio (displayed in user profile at end of posts)
-bio: I develop methods for identifying molecules.
+bio: I develop methods for metabolomics.
 
 # Interests to show in About widget
 interests:
   - Mass Spectrometry
   - Metabolomics
-  - Proteomics
+  - Biochemistry
   - Molecular Biology
 
 # Education to show in About widget
@@ -73,7 +73,7 @@ social:
     link: files/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'mail@yli.one'
+email: 'yuanyueli@zju.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
